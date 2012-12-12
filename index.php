@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html>
     <head>
@@ -20,7 +19,7 @@
     <body>
     <header id="titulo">
 
-        <h3> noooooooooo LISTADO Y PAGINACION CON JQUERY.DATATABLE</h3>
+        <h3> mi primera modificacion ja LISTADO Y PAGINACION CON JQUERY.DATATABLE</h3>
     </header>
 
     <article id="contenido"></article>
