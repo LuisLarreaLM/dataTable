@@ -20,7 +20,7 @@
     <body>
     <header id="titulo">
 
-        <h3> nooooooooo LISTADO Y PAGINACION CON JQUERY.DATATABLE</h3>
+        <h3> noooooooooo LISTADO Y PAGINACION CON JQUERY.DATATABLE</h3>
     </header>
 
     <article id="contenido"></article>
