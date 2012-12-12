@@ -18,7 +18,7 @@
     </head>
     <body>
     <header id="titulo">
-
+		<h3> la misma modificacion</h3>
         <h3> mi primera modificacion ja LISTADO Y PAGINACION CON JQUERY.DATATABLE otra modificacion</h3>
     </header>
 
